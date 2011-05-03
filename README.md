@@ -4,4 +4,4 @@ This is a stripped down version of Thickbox (http://jquery.com/demo/thickbox/) t
 
 Demos
 ------
-labs.dangerisgo.com/thickboxlite
+http://labs.dangerisgo.com/thickboxlite
